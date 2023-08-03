@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\bin\Debug\vucuct kitle  imdex.exe.config
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\bin\Debug\vucuct kitle  imdex.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\bin\Debug\vucuct kitle  imdex.pdb
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\obj\Debug\vucuct kitle  imdex.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\obj\Debug\vucuct kitle  imdex.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\obj\Debug\vucuct kitle  imdex.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\obj\Debug\vucuct kitle  imdex.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\vucuct kitle  imdex\vucuct kitle  imdex\obj\Debug\vucuct kitle  imdex.pdb
